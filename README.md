@@ -1,4 +1,4 @@
-# RC_MF
+# RC-MF
 RC-MF is a two-stage recommender framework that improves biased matrix factorization through regularized residual calibration.
 
 # License
@@ -69,9 +69,7 @@ The search space and Bayesian-optimization budget are defined in:
 config/model_search_spaces.yml
 ```
 
-## Documentation
 
-Detailed usage instructions, commands, configuration options, and reproducibility examples are available in the project [Wiki](https://github.com/GAA-UAM/RC-MF/wiki).
 
 
 
