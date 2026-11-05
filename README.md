@@ -71,7 +71,7 @@ config/model_search_spaces.yml
 
 ## Documentation
 
-Detailed usage instructions, commands, configuration options, and reproducibility examples are available in the project [Wiki](https://github.com/GAA-UAM/RC_MF/wiki).
+Detailed usage instructions, commands, configuration options, and reproducibility examples are available in the project [Wiki](https://github.com/GAA-UAM/RC-MF/wiki).
 
 
 
