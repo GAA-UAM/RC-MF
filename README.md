@@ -75,4 +75,3 @@ Detailed usage instructions, commands, configuration options, and reproducibilit
 
 
 
-[Grupo de Aprendizaje Automático](https://github.com/GAA-UAM) [Universidad Autónoma de Madrid](https://www.uam.es/uam/en/inicio)
